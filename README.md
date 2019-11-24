@@ -1,4 +1,4 @@
-# vue-ts-intro
+# Nuxt Typescript Tutorial
 
 ## Project setup
 ```
