@@ -1,35 +1,11 @@
 # Nuxt Typescript Tutorial
 
-## Project setup
-```
-npm install
-```
+- Nuxt
+- Typescript
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 参考資料
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [TypeScriptでNuxtアプリケーションを作成する際の覚書](https://blog.andoshin11.me/posts/nuxt-with-typescript)
+- [TypeScriptで始めるNode.js入門](https://ics.media/entry/4682/)
+- [【Node.js入門】 初心者がTypeScriptを始めるためのチュートリアル！](https://www.sejuku.net/blog/82822)
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-ts-intro
